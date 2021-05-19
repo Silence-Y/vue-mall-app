@@ -1,6 +1,8 @@
 const px2rem = require("postcss-px2rem");
 
 module.exports = {
+  publicPath: "./",
+
   css: {
     loaderOptions: {
       postcss: {
