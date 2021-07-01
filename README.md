@@ -29,8 +29,6 @@ npm run build
 ```
 ## 项目预览
  https://silence-y.github.io/vue-mall-app/dist/index.html
-## 功能介绍
 
-## 项目截图  
 
 如果本文对你有帮助，可以点个"Star"支持一下，感谢！
